@@ -9,7 +9,7 @@ We set out to build a quadruped robot to better understand how complex systems l
 ![CAD](img/newproto.png)
 
 ## Rendered Prototype 
-![CAD](img/rendernew.png)
+![CAD](img/animatedrender.png)
 
 ## Circuit 
 ![Circuitry](img/schematic.png)
