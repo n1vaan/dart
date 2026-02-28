@@ -28,6 +28,6 @@ We set out to build a quadruped robot to better understand how complex systems l
 | Heat Shrink Tubing Kit | 1 | $0.99 | https://www.aliexpress.us/item/3256808709374117.html |
 | PCA9685 16-Channel PWM Driver Board | 1 | $3.73 | https://www.aliexpress.us/item/3256810242626835.html |
 | 22 AWG Servo Extension Cables (20 Pack) | 1 | $1.59 | https://www.aliexpress.us/item/3256807778609444.html |
-| OVONIC 2S 5200mAh 80C LiPo Battery (2 Pack) | 1 | $33.18 | https://www.aliexpress.us/item/3256805859109959.html |
+| 2S 5200mAh 80C LiPo Battery | 1 | $26.16 | https://www.aliexpress.us/item/3256811494310839.html |
 | Miuzei 20KG Digital Servos (4 Pack ×3 = 12 Servos) | 3 | $134.97 | https://www.amazon.com/dp/B0FH53CKCS |
-| **Total (Estimated)** | — | **$214.13** | — |
+| **Total (Estimated)** | — | **$208.11** | — |
